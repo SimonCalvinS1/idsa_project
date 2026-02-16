@@ -1,0 +1,22 @@
+{
+  "country": "India",
+  "dataSource": "National Source (1988-2006), BIS (2007-2024)",
+  "debts": [
+    {
+      "year": 2020,
+      "total_private_debt_percent_gdp": 93.46,
+      "household_debt_loans_and_securities_percent_gdp": 40.12,
+      "non_financial_corporations_debt_loans_and_securities": 53.34,
+      "general_government_debt_percent_gdp": 88.43,
+      "central_government_debt_percent_gdp": 55.03
+    },
+    {
+      "year": 2021,
+      "total_private_debt_percent_gdp": 87.42,
+      "household_debt_loans_and_securities_percent_gdp": 37.57,
+      "non_financial_corporations_debt_loans_and_securities": 49.85,
+      "general_government_debt_percent_gdp": 83.49, 
+      "central_government_debt_percent_gdp": 54.42
+    }
+  ]
+}
