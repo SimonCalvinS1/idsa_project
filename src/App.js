@@ -12,7 +12,14 @@ function App() {
   const [error, setError] = useState(null);
   const [view, setView] = useState('visualization'); // 'visualization' or 'table'
 
-  const countries = ['India', 'United States', 'United Kingdom', 'Germany', 'France', 'Japan'];
+  const countries = [
+    { name: 'India', filename: 'india' },
+    { name: 'United States', filename: 'united_states' },
+    { name: 'United Kingdom', filename: 'united_kingdom' },
+    { name: 'Germany', filename: 'germany' },
+    { name: 'France', filename: 'france' },
+    { name: 'Japan', filename: 'japan' }
+  ];
 
   useEffect(() => {
     const fetchData = async () => {
@@ -21,7 +28,9 @@ function App() {
       setLoading(true);
       setError(null);
       try {
-        const result = await loadDebtData(selectedCountry);
+        const countryObj = countries.find(c => c.name === selectedCountry);
+        const filename = countryObj ? countryObj.filename : selectedCountry.toLowerCase();
+        const result = await loadDebtData(filename);
         if (result) {
           setData(result);
         } else {
@@ -46,7 +55,7 @@ function App() {
 
       <main className="App-main">
         <CountrySelector 
-          countries={countries}
+          countries={countries.map(c => c.name)}
           selectedCountry={selectedCountry}
           onCountryChange={setSelectedCountry}
         />

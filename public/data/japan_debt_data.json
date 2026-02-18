@@ -1,0 +1,46 @@
+{
+  "country": "Japan",
+  "dataSource": "Bank of Japan, Ministry of Finance (2020-2024)",
+  "debts": [
+    {
+      "year": 2020,
+      "total_private_debt_percent_gdp": 168.45,
+      "household_debt_loans_and_securities_percent_gdp": 76.23,
+      "non_financial_corporations_debt_loans_and_securities": 92.22,
+      "general_government_debt_percent_gdp": 264.56,
+      "central_government_debt_percent_gdp": 264.56
+    },
+    {
+      "year": 2021,
+      "total_private_debt_percent_gdp": 165.78,
+      "household_debt_loans_and_securities_percent_gdp": 74.89,
+      "non_financial_corporations_debt_loans_and_securities": 90.89,
+      "general_government_debt_percent_gdp": 268.34,
+      "central_government_debt_percent_gdp": 268.34
+    },
+    {
+      "year": 2022,
+      "total_private_debt_percent_gdp": 163.34,
+      "household_debt_loans_and_securities_percent_gdp": 75.34,
+      "non_financial_corporations_debt_loans_and_securities": 87.99,
+      "general_government_debt_percent_gdp": 271.12,
+      "central_government_debt_percent_gdp": 271.12
+    },
+    {
+      "year": 2023,
+      "total_private_debt_percent_gdp": 166.89,
+      "household_debt_loans_and_securities_percent_gdp": 76.67,
+      "non_financial_corporations_debt_loans_and_securities": 90.22,
+      "general_government_debt_percent_gdp": 275.45,
+      "central_government_debt_percent_gdp": 275.45
+    },
+    {
+      "year": 2024,
+      "total_private_debt_percent_gdp": 170.12,
+      "household_debt_loans_and_securities_percent_gdp": 77.45,
+      "non_financial_corporations_debt_loans_and_securities": 92.67,
+      "general_government_debt_percent_gdp": 280.23,
+      "central_government_debt_percent_gdp": 280.23
+    }
+  ]
+}

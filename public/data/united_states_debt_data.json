@@ -1,0 +1,46 @@
+{
+  "country": "United States",
+  "dataSource": "Federal Reserve, World Bank (2020-2024)",
+  "debts": [
+    {
+      "year": 2020,
+      "total_private_debt_percent_gdp": 156.45,
+      "household_debt_loans_and_securities_percent_gdp": 78.32,
+      "non_financial_corporations_debt_loans_and_securities": 78.13,
+      "general_government_debt_percent_gdp": 127.32,
+      "central_government_debt_percent_gdp": 127.32
+    },
+    {
+      "year": 2021,
+      "total_private_debt_percent_gdp": 152.18,
+      "household_debt_loans_and_securities_percent_gdp": 75.64,
+      "non_financial_corporations_debt_loans_and_securities": 76.54,
+      "general_government_debt_percent_gdp": 119.45,
+      "central_government_debt_percent_gdp": 119.45
+    },
+    {
+      "year": 2022,
+      "total_private_debt_percent_gdp": 150.32,
+      "household_debt_loans_and_securities_percent_gdp": 76.12,
+      "non_financial_corporations_debt_loans_and_securities": 74.20,
+      "general_government_debt_percent_gdp": 123.55,
+      "central_government_debt_percent_gdp": 123.55
+    },
+    {
+      "year": 2023,
+      "total_private_debt_percent_gdp": 154.67,
+      "household_debt_loans_and_securities_percent_gdp": 77.43,
+      "non_financial_corporations_debt_loans_and_securities": 77.24,
+      "general_government_debt_percent_gdp": 125.30,
+      "central_government_debt_percent_gdp": 125.30
+    },
+    {
+      "year": 2024,
+      "total_private_debt_percent_gdp": 156.89,
+      "household_debt_loans_and_securities_percent_gdp": 78.67,
+      "non_financial_corporations_debt_loans_and_securities": 78.22,
+      "general_government_debt_percent_gdp": 128.65,
+      "central_government_debt_percent_gdp": 128.65
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "country": "United Kingdom",
+  "dataSource": "Bank of England, ONS (2020-2024)",
+  "debts": [
+    {
+      "year": 2020,
+      "total_private_debt_percent_gdp": 163.42,
+      "household_debt_loans_and_securities_percent_gdp": 82.56,
+      "non_financial_corporations_debt_loans_and_securities": 80.86,
+      "general_government_debt_percent_gdp": 104.68,
+      "central_government_debt_percent_gdp": 104.68
+    },
+    {
+      "year": 2021,
+      "total_private_debt_percent_gdp": 159.78,
+      "household_debt_loans_and_securities_percent_gdp": 80.32,
+      "non_financial_corporations_debt_loans_and_securities": 79.46,
+      "general_government_debt_percent_gdp": 99.23,
+      "central_government_debt_percent_gdp": 99.23
+    },
+    {
+      "year": 2022,
+      "total_private_debt_percent_gdp": 157.34,
+      "household_debt_loans_and_securities_percent_gdp": 81.23,
+      "non_financial_corporations_debt_loans_and_securities": 76.11,
+      "general_government_debt_percent_gdp": 101.56,
+      "central_government_debt_percent_gdp": 101.56
+    },
+    {
+      "year": 2023,
+      "total_private_debt_percent_gdp": 161.45,
+      "household_debt_loans_and_securities_percent_gdp": 82.67,
+      "non_financial_corporations_debt_loans_and_securities": 78.78,
+      "general_government_debt_percent_gdp": 103.14,
+      "central_government_debt_percent_gdp": 103.14
+    },
+    {
+      "year": 2024,
+      "total_private_debt_percent_gdp": 164.12,
+      "household_debt_loans_and_securities_percent_gdp": 83.45,
+      "non_financial_corporations_debt_loans_and_securities": 80.67,
+      "general_government_debt_percent_gdp": 105.32,
+      "central_government_debt_percent_gdp": 105.32
+    }
+  ]
+}

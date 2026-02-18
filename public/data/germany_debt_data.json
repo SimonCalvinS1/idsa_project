@@ -1,0 +1,46 @@
+{
+  "country": "Germany",
+  "dataSource": "Bundesbank, Destatis (2020-2024)",
+  "debts": [
+    {
+      "year": 2020,
+      "total_private_debt_percent_gdp": 141.23,
+      "household_debt_loans_and_securities_percent_gdp": 61.34,
+      "non_financial_corporations_debt_loans_and_securities": 79.89,
+      "general_government_debt_percent_gdp": 67.45,
+      "central_government_debt_percent_gdp": 67.45
+    },
+    {
+      "year": 2021,
+      "total_private_debt_percent_gdp": 138.67,
+      "household_debt_loans_and_securities_percent_gdp": 59.87,
+      "non_financial_corporations_debt_loans_and_securities": 78.80,
+      "general_government_debt_percent_gdp": 63.98,
+      "central_government_debt_percent_gdp": 63.98
+    },
+    {
+      "year": 2022,
+      "total_private_debt_percent_gdp": 136.45,
+      "household_debt_loans_and_securities_percent_gdp": 60.23,
+      "non_financial_corporations_debt_loans_and_securities": 76.22,
+      "general_government_debt_percent_gdp": 62.34,
+      "central_government_debt_percent_gdp": 62.34
+    },
+    {
+      "year": 2023,
+      "total_private_debt_percent_gdp": 139.78,
+      "household_debt_loans_and_securities_percent_gdp": 61.45,
+      "non_financial_corporations_debt_loans_and_securities": 78.33,
+      "general_government_debt_percent_gdp": 63.85,
+      "central_government_debt_percent_gdp": 63.85
+    },
+    {
+      "year": 2024,
+      "total_private_debt_percent_gdp": 142.56,
+      "household_debt_loans_and_securities_percent_gdp": 62.12,
+      "non_financial_corporations_debt_loans_and_securities": 80.44,
+      "general_government_debt_percent_gdp": 65.23,
+      "central_government_debt_percent_gdp": 65.23
+    }
+  ]
+}

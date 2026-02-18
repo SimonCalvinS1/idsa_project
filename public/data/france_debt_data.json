@@ -1,0 +1,48 @@
+{
+  "country": "France",
+  "dataSource": "Banque de France, INSEE (2020-2024)",
+  "debts": [
+    {
+      "year": 2020,
+      "total_private_debt_percent_gdp": 137.89,
+      "household_debt_loans_and_securities_percent_gdp": 62.34,
+      "non_financial_corporations_debt_loans_and_securities": 75.55,
+      "general_government_debt_percent_gdp": 98.12,
+      "central_government_debt_percent_gdp": 98.12
+    },
+    {
+      "year": 2021,
+      "total_private_debt_percent_gdp": 134.56,
+      "household_debt_loans_and_securities_percent_gdp": 60.78,
+      "non_financial_corporations_debt_loans_and_securities": 73.78,
+      "general_government_debt_percent_gdp": 95.34,
+      "central_government_debt_percent_gdp": 95.34
+    },
+    {
+      "year": 2022,
+      "total_private_debt_percent_gdp": 132.34,
+      "household_debt_loans_and_securities_percent_gdp": 61.23,
+      "non_financial_corporations_debt_loans_and_securities": 71.11,
+      "general_government_debt_percent_gdp": 93.21,
+      "central_government_debt_percent_gdp": 93.21
+    },
+    {
+      "year": 2023,
+      "total_private_debt_percent_gdp": 135.67,
+      "household_debt_loans_and_securities_percent_gdp": 62.45,
+      "non_financial_corporations_debt_loans_and_securities": 73.22,
+      "general_government_debt_percent_gdp": 94.56,
+      "central_government_debt_percent_gdp": 94.56
+    },
+    {
+      "year": 2024,
+      "total_private_debt_percent_gdp": 138.45,
+      "household_debt_loans_and_securities_percent_gdp": 63.12,
+      "non_financial_corporations_debt_loans_and_securities": 75.33,
+      "general_government_debt_percent_gdp": 96.78,
+      "central_government_debt_percent_gdp": 96.78
+    }
+  ]
+}
+
+    

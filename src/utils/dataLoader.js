@@ -2,18 +2,18 @@
  * Utility functions for loading and processing debt data
  */
 
-export const loadDebtData = async (country = 'India') => {
+export const loadDebtData = async (filename = 'india') => {
   try {
     // Try multiple paths for flexibility
-    let response = await fetch(`${process.env.PUBLIC_URL}/data/${country.toLowerCase()}_debt_data.json`);
+    let response = await fetch(`${process.env.PUBLIC_URL}/data/${filename}_debt_data.json`);
     
     if (!response.ok) {
       // Fallback to root data path
-      response = await fetch(`/data/${country.toLowerCase()}_debt_data.json`);
+      response = await fetch(`/data/${filename}_debt_data.json`);
     }
     
     if (!response.ok) {
-      throw new Error(`Failed to load data for ${country}`);
+      throw new Error(`Failed to load data for ${filename}`);
     }
     const data = await response.json();
     return data;

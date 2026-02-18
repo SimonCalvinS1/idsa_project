@@ -17,6 +17,30 @@
       "non_financial_corporations_debt_loans_and_securities": 49.85,
       "general_government_debt_percent_gdp": 83.49,
       "central_government_debt_percent_gdp": 54.42
+    },
+    {
+      "year": 2022,
+      "total_private_debt_percent_gdp": 86.40,
+      "household_debt_loans_and_securities_percent_gdp": 38.90,
+      "non_financial_corporations_debt_loans_and_securities": 47.50,
+      "general_government_debt_percent_gdp": 82.17,
+      "central_government_debt_percent_gdp": 54.48
+    },
+    {
+      "year": 2023,
+      "total_private_debt_percent_gdp": 88.71,
+      "household_debt_loans_and_securities_percent_gdp": 39.94,
+      "non_financial_corporations_debt_loans_and_securities": 48.77,
+      "general_government_debt_percent_gdp": 81.23,
+      "central_government_debt_percent_gdp": 55.03
+    },
+    {
+      "year": 2024,
+      "total_private_debt_percent_gdp": 90.55,
+      "household_debt_loans_and_securities_percent_gdp": 40.77,
+      "non_financial_corporations_debt_loans_and_securities": 49.78,
+      "general_government_debt_percent_gdp": 81.29,
+      "central_government_debt_percent_gdp": 53.82
     }
   ]
 }
